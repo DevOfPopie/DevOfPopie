@@ -1,1 +1,1 @@
-![Cover](https://github.com/DevOfPopie/DevOfPopie/blob/main/img/fond.jpg)
+![Cover](https://github.com/DevOfPopie/DevOfPopie/blob/main/img/fond-github.jpg)
